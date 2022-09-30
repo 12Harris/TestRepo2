@@ -1,0 +1,7 @@
+1) commit file 1 to dev
+
+2) commit file 2 to dev
+
+2) commit file 3 to dev
+
+3) merge branch dev to branch main
